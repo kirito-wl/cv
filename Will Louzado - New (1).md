@@ -1,37 +1,34 @@
-﻿**Will Louzado
+**Will Louzado
 Swindon**
-
 **07983240062**
 
 [**https://github.com/kirito-wl**](https://github.com/kirito-wl)
-
 [**https://www.linkedin.com/in/wlouzado/**](https://www.linkedin.com/in/wlouzado/)
-
 [**will.louzado2@gmail.com**](mailto:will.louzado2@gmail.com)
 
 Aspiring Software and Cloud Engineer driven to unblock problems for companies that want to modernise. I bring 10 years’ commercial experience in recruitment problem solving by building technical teams based on requirements for tech-savvy organisations. Over the last two, I have been on an intensive journey of self-development where I have gained hands-on proficiency in Google Cloud, Terraform, Git, Python and SQL on Linux distribution systems.
 
 **Education and Certifications**
 
-Professional 
+<ins>Professional<ins/> 
 
 Google Cloud Associate Cloud Engineer 		Expiry December 2025
-Google Cloud Digital Leader		 	 	Expiry December 2024
+Google Cloud Digital Leader		 	 				Expiry December 2024
 Ivy House London - Executive Coaching		No Expiry
 
-Academic
+<ins>Academic<ins/>
 
 Hyperion Dev
-Software Engineering Bootcamp			December 2022 - March 2023**
-University of Portsmouth				2008-2012
+Software Engineering Bootcamp					December 2022 - March 2023**
+University of Portsmouth								2008-2012
 B.Sc Economics (Hons)
-St Joseph’s Catholic College				2006-2008
+St Joseph’s Catholic College							2006-2008
 A Levels - Business, Information Technology (Double)
 
 **Core Skills (Self assessed)**
 
 Languages: Python, HTML(Basic)
-DevOps: Git, Docker, Kubernetes, Terraform
+DevOps: Git, Docker, Terraform
 Cloud: Google Cloud Platform
 Other: Competency Interviewing, Exec Stakeholder Management, Creative Writing, G-Suite
 
