@@ -1,6 +1,7 @@
 # Will Louzado
-Location: Swindon
-Mobile: 07983240062
+Location:	Swindon
+
+Mobile:	07983240062
 
 [**Github**](https://github.com/kirito-wl)
 
