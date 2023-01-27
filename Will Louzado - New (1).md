@@ -3,7 +3,9 @@ Swindon**
 **07983240062**
 
 [**https://github.com/kirito-wl**](https://github.com/kirito-wl)
+
 [**https://www.linkedin.com/in/wlouzado/**](https://www.linkedin.com/in/wlouzado/)
+
 [**will.louzado2@gmail.com**](mailto:will.louzado2@gmail.com)
 
 Aspiring Software and Cloud Engineer driven to unblock problems for companies that want to modernise. I bring 10 years’ commercial experience in recruitment problem solving by building technical teams based on requirements for tech-savvy organisations. Over the last two, I have been on an intensive journey of self-development where I have gained hands-on proficiency in Google Cloud, Terraform, Git, Python and SQL on Linux distribution systems.
