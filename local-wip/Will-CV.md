@@ -1,5 +1,5 @@
 # Will Louzado
-Location:	Swindon / Wiltshire
+Location:	Swindon / Wiltshire / SN4
 
 Mobile:	07983240062
 
