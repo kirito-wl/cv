@@ -1,0 +1,11 @@
+Install jenkins locally - Use declarative pipeline syntax.
+Use jenkins and connect to GitHub repository
+Create pipeline in jenkins that is triggered by a commit to the repository
+Add step in pipeline that to build docker image using dockerfile
+Add step in pipeline to run container - location of md file may need to be a environment variable
+Add step to execute python in container
+Add step to push pdf file into a location - This is the artifact
+Add step to shutdown container
+Add step to open pdf file to make sure meets standards
+Add step to move pdg to location where accessed or sent out via email to certain addresses
+PDF viruses

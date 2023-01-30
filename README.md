@@ -6,12 +6,6 @@ Trigger the PDF file then being sent to Workable and selected contacts via email
 
 Build a pipeline to auto trigger the convert and upload process on git commit
 
-## To do:
+# Jenkins Running in Container
 
-Architecture Diagram
-
-Terraform Modules to autobuild GCP Environment
-
-Push the MD file to the GCS Bucket to trigger a container alpine creation for the python program to run, store the PDF in a bucket or Drive and then send via email.
-
-Automate it all
+https://www.jenkins.io/doc/book/installing/docker/
