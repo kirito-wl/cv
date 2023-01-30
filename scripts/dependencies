@@ -1,8 +1,0 @@
-# Install the necessary dependencies
-apk add --no-cache build-base python3-dev libffi-dev openssl-dev
-
-# Install the google-cloud-storage python library
-pip3 install google-cloud-storage
-
-# Install wkhtmltopdf
-apk add --no-cache wkhtmltopdf

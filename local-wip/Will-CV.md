@@ -21,10 +21,10 @@ Aspiring Software and Cloud Engineer driven to unblock problems for companies th
 
 <ins>Academic<ins/>
 
-	Hyperion Dev - Software Engineering Bootcamp					December 2022 - March 2023
-	University of Portsmouth							2008-2012
+	Hyperion Dev - Software Engineering Bootcamp				December 2022 - March 2023
+	University of Portsmouth									2008-2012
 	B.Sc Economics (Hons)
-	St Joseph’s Catholic College							2006-2008
+	St Joseph’s Catholic College								2006-2008
 	A Levels - Business, IT (Double)
 
 ## Core Skills (Self assessed)
@@ -46,7 +46,7 @@ Aspiring Software and Cloud Engineer driven to unblock problems for companies th
 
 ## Career History
 
-	Appsbroker									February 2021 - Present
+	Appsbroker													February 2021 - Present
 	Senior Talent Partner (Remote)
 
 Appsbroker is one of the largest Google Cloud-only Agile Systems Integrators and Managed Services Providers (MSPs) in EMEA delivering digital transformation for some of the world’s leading organisations. Privately owned and based in Swindon.
@@ -66,7 +66,7 @@ Responsibilities
 ### Previous positions
 
 	FLEETCOR - Talent Acquisition Partner						2017 - 2020
-	Outsource UK - Senior Recruiter							2012-2017
+	Outsource UK - Senior Recruiter								2012-2017
 
 ### Hobbies and Interests
 
